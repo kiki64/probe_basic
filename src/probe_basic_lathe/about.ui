@@ -19,7 +19,7 @@
      <item>
       <widget class="QLabel" name="label">
        <property name="text">
-        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;ProbeBasic&lt;/span&gt;&lt;br/&gt;https://kcjengr.github.io/probe_basic/&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;ProbeBasic&lt;/span&gt;&lt;br/&gt;&lt;a href=&quot;https://kcjengr.github.io/probe_basic/&quot; style=&quot;color:white;&quot;&gt;https://kcjengr.github.io/probe_basic/&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
        </property>
       </widget>
      </item>
